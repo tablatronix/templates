@@ -1,0 +1,13 @@
+---
+date_added: 2020-11-26
+title: Avatar AWP13L
+model: AWP13L
+image: /assets/images/avatar_AWP13L.jpg
+template: {"NAME":"AWP13L","GPIO":[0,0,56,0,0,0,0,0,0,17,0,21,0],"FLAG":0,"BASE":18}
+link: 
+flash: tuya-convert
+category: plug
+type: Plug
+standard: us
+---
+Can no longer find item, similar to AWP12L, ESP S3 1 led on io2, no serial# on device.
